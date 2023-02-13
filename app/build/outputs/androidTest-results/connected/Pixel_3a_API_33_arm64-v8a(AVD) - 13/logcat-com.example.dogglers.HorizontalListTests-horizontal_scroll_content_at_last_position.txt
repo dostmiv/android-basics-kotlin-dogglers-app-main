@@ -1,0 +1,225 @@
+02-02 08:13:13.907 27191 27210 I TestRunner: started: horizontal_scroll_content_at_last_position(com.example.dogglers.HorizontalListTests)
+02-02 08:13:13.909 27191 27210 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+02-02 08:13:13.915 18513 18698 D SplashScreenView: Build android.window.SplashScreenView{30ff5af V.E...... ......ID 0,0-0,0}
+02-02 08:13:13.915 18513 18698 D SplashScreenView: Icon: view: null drawable: null size: 0
+02-02 08:13:13.915 18513 18698 D SplashScreenView: Branding: view: android.view.View{f011dbc G.ED..... ......I. 0,0-0,0 #10204d9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+02-02 08:13:13.918   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:13.920   350   350 D goldfish-address-space: claimShared: Ask to claim region [0x1ef3a4000 0x1efccc000]
+02-02 08:13:13.929   350   350 D goldfish-address-space: claimShared: Ask to claim region [0x1ec000000 0x1ec928000]
+02-02 08:13:13.930   350   350 D goldfish-address-space: claimShared: Ask to claim region [0x1ec928000 0x1ed250000]
+02-02 08:13:13.931 18513 18701 W Parcel  : Expecting binder but got null!
+02-02 08:13:13.933 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@58f2aa7 in: PRE_ON_CREATE
+02-02 08:13:13.934 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@58f2aa7
+02-02 08:13:13.935   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:13.945 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@58f2aa7 in: CREATED
+02-02 08:13:13.945 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@58f2aa7
+02-02 08:13:13.946 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@58f2aa7 in: STARTED
+02-02 08:13:13.946 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@58f2aa7
+02-02 08:13:13.949 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@58f2aa7 in: RESUMED
+02-02 08:13:13.949 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@58f2aa7
+02-02 08:13:13.950 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@58f2aa7 in: PAUSED
+02-02 08:13:13.950 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@58f2aa7
+02-02 08:13:13.952   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:13.960 27191 27191 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f659cb5 in: PRE_ON_CREATE
+02-02 08:13:13.960 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+02-02 08:13:13.964 27191 27191 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f659cb5 in: CREATED
+02-02 08:13:13.965 27191 27191 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.HorizontalListActivity@f659cb5
+02-02 08:13:13.965 27191 27191 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f659cb5 in: STARTED
+02-02 08:13:13.966 27191 27191 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.HorizontalListActivity@f659cb5
+02-02 08:13:13.966 27191 27191 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f659cb5 in: RESUMED
+02-02 08:13:13.966 27191 27191 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.HorizontalListActivity@f659cb5
+02-02 08:13:13.969   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:13.980   350   350 D goldfish-address-space: claimShared: Ask to claim region [0x1f24a0000 0x1f2dc8000]
+02-02 08:13:13.985   350   350 D goldfish-address-space: claimShared: Ask to claim region [0x1f4000000 0x1f4928000]
+02-02 08:13:13.986   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:13.989 27191 27212 W Parcel  : Expecting binder but got null!
+02-02 08:13:13.991 18342 18359 W ziparchive: Unable to open '/data/app/~~4Sp9rD9DBjc4osoNuDMK5A==/com.example.dogglers-SrnlQ1sOGABd7v9hUC3NWQ==/base.dm': No such file or directory
+02-02 08:13:13.991 18342 18359 I ActivityTaskManager: Displayed com.example.dogglers/.HorizontalListActivity: +79ms
+02-02 08:13:13.994   350   350 D goldfish-address-space: claimShared: Ask to claim region [0x1f4928000 0x1f5250000]
+02-02 08:13:13.996 27191 27191 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+02-02 08:13:14.003   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.003   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24f2030
+02-02 08:13:14.003   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24f2570
+02-02 08:13:14.010 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+02-02 08:13:14.011 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+02-02 08:13:14.011 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+02-02 08:13:14.012 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+02-02 08:13:14.020   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.020   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24f0a70
+02-02 08:13:14.023 19146 19146 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+02-02 08:13:14.024 19146 19809 E HwDetectorWithState: a: 3
+02-02 08:13:14.036   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.041 27191 27191 I ViewInteraction: Performing 'scroll RecyclerView to position: 5' action on view view.getId() is <2131230945/com.example.dogglers:id/horizontal_recycler_view>
+02-02 08:13:14.053   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.068 27191 27191 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Bella"
+02-02 08:13:14.070   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.070   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.070   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.070   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.070   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.070   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.070   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.070   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.070   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.078 27191 27191 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f659cb5 in: PAUSED
+02-02 08:13:14.079 27191 27191 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.HorizontalListActivity@f659cb5
+02-02 08:13:14.083 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6 in: PRE_ON_CREATE
+02-02 08:13:14.083 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6
+02-02 08:13:14.086   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.086   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24ea0b0
+02-02 08:13:14.086   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.086   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.086   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.086   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.090 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6 in: CREATED
+02-02 08:13:14.090 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6
+02-02 08:13:14.091 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6 in: STARTED
+02-02 08:13:14.091 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6
+02-02 08:13:14.092 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6 in: RESUMED
+02-02 08:13:14.093 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6
+02-02 08:13:14.097   350   350 D goldfish-address-space: claimShared: Ask to claim region [0x1f5250000 0x1f5b78000]
+02-02 08:13:14.100   350   350 D goldfish-address-space: claimShared: Ask to claim region [0x1f5b78000 0x1f64a0000]
+02-02 08:13:14.101 27191 27212 W Parcel  : Expecting binder but got null!
+02-02 08:13:14.103   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.107 18342 18359 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +32ms
+02-02 08:13:14.113   350   350 D goldfish-address-space: claimShared: Ask to claim region [0x1f64a0000 0x1f6dc8000]
+02-02 08:13:14.120   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.120   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24ee3d0
+02-02 08:13:14.120   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24eb190
+02-02 08:13:14.124 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6 in: PAUSED
+02-02 08:13:14.125 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6
+02-02 08:13:14.129 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+02-02 08:13:14.129 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+02-02 08:13:14.129 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+02-02 08:13:14.130 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+02-02 08:13:14.136   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.141 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b in: PRE_ON_CREATE
+02-02 08:13:14.141 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b
+02-02 08:13:14.144 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b in: CREATED
+02-02 08:13:14.144 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b
+02-02 08:13:14.145 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b in: STARTED
+02-02 08:13:14.145 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b
+02-02 08:13:14.146 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b in: RESUMED
+02-02 08:13:14.146 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b
+02-02 08:13:14.153   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.159   350   350 D goldfish-address-space: claimShared: Ask to claim region [0x1f6dc8000 0x1f76f0000]
+02-02 08:13:14.165   350   350 D goldfish-address-space: claimShared: Ask to claim region [0x1f8000000 0x1f8928000]
+02-02 08:13:14.165 27191 27212 W Parcel  : Expecting binder but got null!
+02-02 08:13:14.166 18342 18359 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +54ms
+02-02 08:13:14.170   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.175   350   350 D goldfish-address-space: claimShared: Ask to claim region [0x1ee730000 0x1eed0c000]
+02-02 08:13:14.179 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+02-02 08:13:14.180 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+02-02 08:13:14.180 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+02-02 08:13:14.180 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+02-02 08:13:14.181 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b in: PAUSED
+02-02 08:13:14.182 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b
+02-02 08:13:14.186   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.191 19260 19260 W A       : Can't get WAA status for Mavatar!
+02-02 08:13:14.191 19260 19260 W A       : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Class java.lang.Object.getClass()' on a null object reference
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.apps.tiktok.dataservice.z.b(PG:1)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.apps.tiktok.dataservice.at.a(PG:1)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.apps.tiktok.tracing.ec.a(PG:2)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.common.util.concurrent.aj.a(PG:2)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.common.util.concurrent.ac.apply(PG:1)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.common.util.concurrent.h.e(PG:2)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.common.util.concurrent.j.run(PG:9)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.common.util.concurrent.bf.execute(PG:1)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.common.util.concurrent.d.i(PG:1)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.common.util.concurrent.d.l(PG:12)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.common.util.concurrent.d.n(PG:2)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.common.util.concurrent.i.f(PG:1)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.common.util.concurrent.j.run(PG:12)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.android.libraries.i.ae.run(PG:1)
+02-02 08:13:14.191 19260 19260 W A       : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+02-02 08:13:14.191 19260 19260 W A       : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.android.libraries.i.l.run(PG:2)
+02-02 08:13:14.191 19260 19260 W A       : 	at com.google.android.libraries.i.q.run(PG:4)
+02-02 08:13:14.191 19260 19260 W A       : 	at java.lang.Thread.run(Thread.java:1012)
+02-02 08:13:14.194 19146 19146 I GsaVoiceInteractionSrv: Handling ACTION_START_HOTWORD
+02-02 08:13:14.194 19146 19784 I GsaVoiceInteractionSrv: disregardVoiceMatch: false
+02-02 08:13:14.195 19146 19784 I GsaVoiceInteractionSrv: Cannot start hotword, hotword has been explicitly disabled.
+02-02 08:13:14.197 18761 18761 D b/223498680: BaseRecentsViewStateController setStateWithAnimation state=Normal, config.skipOverview=true
+02-02 08:13:14.201   350   350 D goldfish-address-space: claimShared: Ask to claim region [0x1f8928000 0x1f9250000]
+02-02 08:13:14.203   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.204   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24f0cb0
+02-02 08:13:14.204   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24ed2f0
+02-02 08:13:14.204   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24f1c70
+02-02 08:13:14.204   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24ed4d0
+02-02 08:13:14.221   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.237   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.253   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.270   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.272 18342 21769 W InputManager-JNI: Input channel object '81e2e16 Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+02-02 08:13:14.286   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.287   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24f2030
+02-02 08:13:14.303   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.305 27191 27191 D AutofillManager: Fill dialog is enabled:false, hints=[password, passwordAuto, creditCardNumber, creditCardSecurityCode, creditCardExpirationDate]
+02-02 08:13:14.305 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+02-02 08:13:14.306 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+02-02 08:13:14.306 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.google.android.apps.nexuslauncher fieldId=-1 fieldName=null extras=null}, false)
+02-02 08:13:14.306 19112 19112 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+02-02 08:13:14.320   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.320   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24f03b0
+02-02 08:13:14.322 18513 18620 W FrameTracker: Missed SF frame:16
+02-02 08:13:14.322 18513 18620 W FrameTracker: Missed SF frame:16
+02-02 08:13:14.322 18513 18620 W FrameTracker: Missed SF frame:16
+02-02 08:13:14.322 18513 18620 W FrameTracker: Missed SF frame:16
+02-02 08:13:14.323 18513 18620 W FrameTracker: Missed SF frame:16
+02-02 08:13:14.323 18513 18620 W FrameTracker: Missed SF frame:16
+02-02 08:13:14.323 18513 18620 W FrameTracker: Missed SF frame:16
+02-02 08:13:14.323 18513 18620 W FrameTracker: Missed SF frame:16
+02-02 08:13:14.323 18513 18620 W FrameTracker: Missed SF frame:16
+02-02 08:13:14.323 18513 18620 W FrameTracker: Missed SF frame:16
+02-02 08:13:14.323 18513 18620 W FrameTracker: Missing SF jank callback for vsyncId: 278644
+02-02 08:13:14.336   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.353   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.369   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.386   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.403   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.420   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.437   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.437   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.437   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.437   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.437   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.437   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.437   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.437   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.437   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.454   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.470   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.486   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.503   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.520   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.521 18761 19159 D EGL_emulation: app_time_stats: avg=22.44ms min=11.49ms max=152.73ms count=47
+02-02 08:13:14.536   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.553   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.554   386   470 W TransactionTracing: Could not find layer id -1
+02-02 08:13:14.570   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.570   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24f1910
+02-02 08:13:14.570   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24e94b0
+02-02 08:13:14.570   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24e94b0
+02-02 08:13:14.573 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b in: STOPPED
+02-02 08:13:14.573 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b
+02-02 08:13:14.574 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b in: DESTROYED
+02-02 08:13:14.575 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@2ba1c6b
+02-02 08:13:14.577 18342 18644 W InputManager-JNI: Input channel object 'ee559d com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+02-02 08:13:14.578 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6 in: STOPPED
+02-02 08:13:14.579 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6
+02-02 08:13:14.580 27191 27191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6 in: DESTROYED
+02-02 08:13:14.580 27191 27191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ecd88d6
+02-02 08:13:14.581 18342 18644 W InputManager-JNI: Input channel object '843ee0a com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+02-02 08:13:14.584 27191 27191 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f659cb5 in: STOPPED
+02-02 08:13:14.584 27191 27191 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.HorizontalListActivity@f659cb5
+02-02 08:13:14.586   353   353 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+02-02 08:13:14.587   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24e98d0
+02-02 08:13:14.588   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24ee190
+02-02 08:13:14.588   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24ecdb0
+02-02 08:13:14.588   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24e9c30
+02-02 08:13:14.588   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24f1f10
+02-02 08:13:14.589   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24ee190
+02-02 08:13:14.589   386   470 W TransactionTracing: Could not find layer handle 0xb4000079e24e9c30
+02-02 08:13:14.594 27191 27191 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f659cb5 in: DESTROYED
+02-02 08:13:14.595 27191 27191 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+02-02 08:13:14.601 27191 27210 I TestRunner: finished: horizontal_scroll_content_at_last_position(com.example.dogglers.HorizontalListTests)
